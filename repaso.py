@@ -17,5 +17,12 @@ numero_2 = int(input("Ingrese el segundo numero: "))
 # Sumar numeros
 suma = numero_1 + numero_2
 
+# Multiplicar numeros
+producto = numero_1 * numero_2
+
 # Mostrar suma
 print("La suma de los numeros: " + str(suma))
+
+# Mostrar producto
+print("El producto de los numeros: " + str(producto))
+
